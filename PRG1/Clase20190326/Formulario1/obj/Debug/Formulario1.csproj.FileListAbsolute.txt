@@ -1,0 +1,11 @@
+c:\users\lab3\documents\visual studio 2013\Projects\Clase20190326\Formulario1\bin\Debug\Formulario1.exe.config
+c:\users\lab3\documents\visual studio 2013\Projects\Clase20190326\Formulario1\bin\Debug\Formulario1.exe
+c:\users\lab3\documents\visual studio 2013\Projects\Clase20190326\Formulario1\bin\Debug\Formulario1.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\Clase20190326\Formulario1\obj\Debug\Formulario1.csprojResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2013\Projects\Clase20190326\Formulario1\obj\Debug\Formulario1.Form1.resources
+c:\users\lab3\documents\visual studio 2013\Projects\Clase20190326\Formulario1\obj\Debug\Formulario1.Properties.Resources.resources
+c:\users\lab3\documents\visual studio 2013\Projects\Clase20190326\Formulario1\obj\Debug\Formulario1.csproj.GenerateResource.Cache
+c:\users\lab3\documents\visual studio 2013\Projects\Clase20190326\Formulario1\obj\Debug\Formulario1.exe
+c:\users\lab3\documents\visual studio 2013\Projects\Clase20190326\Formulario1\obj\Debug\Formulario1.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\Clase20190326\Formulario1\bin\Debug\ClassLibrary1.dll
+c:\users\lab3\documents\visual studio 2013\Projects\Clase20190326\Formulario1\bin\Debug\ClassLibrary1.pdb
