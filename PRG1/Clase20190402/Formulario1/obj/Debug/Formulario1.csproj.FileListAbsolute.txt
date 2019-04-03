@@ -1,0 +1,10 @@
+C:\Users\Lab3\Desktop\Clase\Clase20190402\Formulario1\bin\Debug\Formulario1.exe.config
+C:\Users\Lab3\Desktop\Clase\Clase20190402\Formulario1\bin\Debug\Formulario1.exe
+C:\Users\Lab3\Desktop\Clase\Clase20190402\Formulario1\bin\Debug\Formulario1.pdb
+C:\Users\Lab3\Desktop\Clase\Clase20190402\Formulario1\obj\Debug\Formulario1.csprojResolveAssemblyReference.cache
+C:\Users\Lab3\Desktop\Clase\Clase20190402\Formulario1\obj\Debug\Formulario1.Form1.resources
+C:\Users\Lab3\Desktop\Clase\Clase20190402\Formulario1\obj\Debug\Formulario1.Properties.Resources.resources
+C:\Users\Lab3\Desktop\Clase\Clase20190402\Formulario1\obj\Debug\Formulario1.csproj.GenerateResource.Cache
+C:\Users\Lab3\Desktop\Clase\Clase20190402\Formulario1\obj\Debug\Formulario1.exe
+C:\Users\Lab3\Desktop\Clase\Clase20190402\Formulario1\obj\Debug\Formulario1.pdb
+C:\Users\Lab3\Desktop\Clase\Clase20190402\Formulario1\obj\Debug\Formulario1.Form2.resources
