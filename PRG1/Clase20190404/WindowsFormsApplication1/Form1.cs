@@ -45,17 +45,38 @@ namespace WindowsFormsApplication1 {
 
             listBox2.Items.Add("Tipo de disco utilizado " + d.DriveType + "\n");
             treeView1.Nodes.Clear();
-
             if (d.IsReady) {
                 DirectoryInfo dir = new DirectoryInfo(unidades);
-                foreach ()
-                treeView1.Nodes.
+                foreach (DirectoryInfo sub in dir.GetDirectories()) {
+                    treeView1.Nodes.Add(sub.Name);
+                }
+                foreach (FileInfo file in dir.GetFiles()) {
+                    TreeNode nodo = new TreeNode();
+                    nodo.Text = file.Name;
+                    nodo.ForeColor = Color.Blue;
+                    treeView1.Nodes.Add(nodo);
+                }
             }
 
         }
 
         private void listBox2_SelectedIndexChanged(object sender, EventArgs e) {
 
+        }
+
+        private void button2_Click(object sender, EventArgs e) {
+            String dir = "C:/test";
+            String arc = "C:/prueba.txt";
+            if (!Directory.Exists(dir)) {
+                Directory.CreateDirectory(dir);
+            }
+            else {
+                MessageBox.Show("Ricardo Milos");
+            }
+
+            if (!File.Exists(arc)) {
+                File.Create(arc);                
+            }
         }
     }
 }
